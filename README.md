@@ -1,1 +1,1 @@
-Página de hospedagem de site, usando HTML e CSS
+Página de hospedagem de site, usando apenas HTML e CSS
